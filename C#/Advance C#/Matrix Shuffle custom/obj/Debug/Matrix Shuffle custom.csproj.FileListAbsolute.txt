@@ -1,0 +1,6 @@
+C:\Users\peter\Desktop\подготовка за cSharp advance\Matrix Shuffle custom\bin\Debug\Matrix Shuffle custom.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\Matrix Shuffle custom\bin\Debug\Matrix Shuffle custom.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Matrix Shuffle custom\bin\Debug\Matrix Shuffle custom.pdb
+C:\Users\peter\Desktop\подготовка за cSharp advance\Matrix Shuffle custom\obj\Debug\Matrix Shuffle custom.csprojResolveAssemblyReference.cache
+C:\Users\peter\Desktop\подготовка за cSharp advance\Matrix Shuffle custom\obj\Debug\Matrix Shuffle custom.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Matrix Shuffle custom\obj\Debug\Matrix Shuffle custom.pdb

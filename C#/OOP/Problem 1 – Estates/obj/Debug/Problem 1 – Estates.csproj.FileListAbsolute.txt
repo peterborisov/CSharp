@@ -1,0 +1,6 @@
+C:\Users\peter\Desktop\delegates\Problem 1 – Estates\bin\Debug\Problem 1 – Estates.exe.config
+C:\Users\peter\Desktop\delegates\Problem 1 – Estates\bin\Debug\Problem 1 – Estates.exe
+C:\Users\peter\Desktop\delegates\Problem 1 – Estates\bin\Debug\Problem 1 – Estates.pdb
+C:\Users\peter\Desktop\delegates\Problem 1 – Estates\obj\Debug\Problem 1 – Estates.exe
+C:\Users\peter\Desktop\delegates\Problem 1 – Estates\obj\Debug\Problem 1 – Estates.pdb
+C:\Users\peter\Desktop\delegates\Problem 1 – Estates\obj\Debug\Problem 1 – Estates.csprojResolveAssemblyReference.cache

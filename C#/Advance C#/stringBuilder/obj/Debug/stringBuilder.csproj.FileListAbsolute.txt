@@ -1,0 +1,9 @@
+C:\Users\peter\Desktop\Стрингове и текстообработка\stringBuilder\bin\Debug\stringBuilder.exe.config
+C:\Users\peter\Desktop\Стрингове и текстообработка\stringBuilder\bin\Debug\stringBuilder.exe
+C:\Users\peter\Desktop\Стрингове и текстообработка\stringBuilder\bin\Debug\stringBuilder.pdb
+C:\Users\peter\Desktop\Стрингове и текстообработка\stringBuilder\obj\Debug\stringBuilder.exe
+C:\Users\peter\Desktop\Стрингове и текстообработка\stringBuilder\obj\Debug\stringBuilder.pdb
+C:\Users\peter\Desktop\Стрингове и текстообработка\stringBuilder\obj\Debug\stringBuilder.csprojResolveAssemblyReference.cache
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\Стрингове и текстообработка\stringBuilder\bin\Debug\stringBuilder.exe.config
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\Стрингове и текстообработка\stringBuilder\obj\Debug\stringBuilder.exe
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\Стрингове и текстообработка\stringBuilder\obj\Debug\stringBuilder.pdb

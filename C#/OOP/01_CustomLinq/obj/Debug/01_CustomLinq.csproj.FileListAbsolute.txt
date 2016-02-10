@@ -1,0 +1,6 @@
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\02 OOP\07 Delegates\Homework\Delegates\01_CustomLinq\bin\Debug\01_CustomLinq.exe.config
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\02 OOP\07 Delegates\Homework\Delegates\01_CustomLinq\bin\Debug\01_CustomLinq.exe
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\02 OOP\07 Delegates\Homework\Delegates\01_CustomLinq\bin\Debug\01_CustomLinq.pdb
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\02 OOP\07 Delegates\Homework\Delegates\01_CustomLinq\obj\Debug\01_CustomLinq.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\02 OOP\07 Delegates\Homework\Delegates\01_CustomLinq\obj\Debug\01_CustomLinq.exe
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\02 OOP\07 Delegates\Homework\Delegates\01_CustomLinq\obj\Debug\01_CustomLinq.pdb

@@ -1,0 +1,6 @@
+C:\Users\peter\Desktop\подготовка за cSharp advance\Stuck Numbers\bin\Debug\Stuck Numbers.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\Stuck Numbers\bin\Debug\Stuck Numbers.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Stuck Numbers\bin\Debug\Stuck Numbers.pdb
+C:\Users\peter\Desktop\подготовка за cSharp advance\Stuck Numbers\obj\Debug\Stuck Numbers.csprojResolveAssemblyReference.cache
+C:\Users\peter\Desktop\подготовка за cSharp advance\Stuck Numbers\obj\Debug\Stuck Numbers.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Stuck Numbers\obj\Debug\Stuck Numbers.pdb

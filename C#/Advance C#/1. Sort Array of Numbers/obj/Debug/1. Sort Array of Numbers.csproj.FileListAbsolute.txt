@@ -1,0 +1,9 @@
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\1. Sort Array of Numbers\bin\Debug\_1.Sort_Array_of_Numbers.exe.config
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\1. Sort Array of Numbers\bin\Debug\_1.Sort_Array_of_Numbers.exe
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\1. Sort Array of Numbers\bin\Debug\_1.Sort_Array_of_Numbers.pdb
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\1. Sort Array of Numbers\obj\Debug\1. Sort Array of Numbers.csprojResolveAssemblyReference.cache
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\1. Sort Array of Numbers\obj\Debug\_1.Sort_Array_of_Numbers.exe
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\1. Sort Array of Numbers\obj\Debug\_1.Sort_Array_of_Numbers.pdb
+C:\Users\peter\Desktop\подготовка за cSharp advance\1. Sort Array of Numbers\bin\Debug\_1.Sort_Array_of_Numbers.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\1. Sort Array of Numbers\obj\Debug\_1.Sort_Array_of_Numbers.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\1. Sort Array of Numbers\obj\Debug\_1.Sort_Array_of_Numbers.pdb

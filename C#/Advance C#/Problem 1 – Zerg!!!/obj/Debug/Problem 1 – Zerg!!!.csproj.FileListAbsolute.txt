@@ -1,0 +1,7 @@
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Problem 1 – Zerg!!!\bin\Debug\Problem 1 – Zerg!!!.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\Problem 1 – Zerg!!!\bin\Debug\Problem 1 – Zerg!!!.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\Problem 1 – Zerg!!!\bin\Debug\Problem 1 – Zerg!!!.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Problem 1 – Zerg!!!\bin\Debug\Problem 1 – Zerg!!!.pdb
+C:\Users\peter\Desktop\подготовка за cSharp advance\Problem 1 – Zerg!!!\obj\Debug\Problem 1 – Zerg!!!.csprojResolveAssemblyReference.cache
+C:\Users\peter\Desktop\подготовка за cSharp advance\Problem 1 – Zerg!!!\obj\Debug\Problem 1 – Zerg!!!.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Problem 1 – Zerg!!!\obj\Debug\Problem 1 – Zerg!!!.pdb

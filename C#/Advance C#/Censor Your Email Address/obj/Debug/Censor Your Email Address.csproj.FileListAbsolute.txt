@@ -1,0 +1,9 @@
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Censor Your Email Address\bin\Debug\Censor Your Email Address.exe.config
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Censor Your Email Address\bin\Debug\Censor Your Email Address.exe
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Censor Your Email Address\bin\Debug\Censor Your Email Address.pdb
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Censor Your Email Address\obj\Debug\Censor Your Email Address.csprojResolveAssemblyReference.cache
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Censor Your Email Address\obj\Debug\Censor Your Email Address.exe
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Censor Your Email Address\obj\Debug\Censor Your Email Address.pdb
+C:\Users\peter\Desktop\подготовка за cSharp advance\Censor Your Email Address\bin\Debug\Censor Your Email Address.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\Censor Your Email Address\obj\Debug\Censor Your Email Address.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Censor Your Email Address\obj\Debug\Censor Your Email Address.pdb

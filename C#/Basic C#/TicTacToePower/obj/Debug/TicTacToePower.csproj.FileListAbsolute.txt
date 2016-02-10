@@ -1,0 +1,6 @@
+D:\My Documents\workspace\SoftUniCSharpBasics\CSharpBasicsExam26August2014\TicTacToePower\bin\Debug\TicTacToePower.exe.config
+D:\My Documents\workspace\SoftUniCSharpBasics\CSharpBasicsExam26August2014\TicTacToePower\bin\Debug\TicTacToePower.exe
+D:\My Documents\workspace\SoftUniCSharpBasics\CSharpBasicsExam26August2014\TicTacToePower\bin\Debug\TicTacToePower.pdb
+D:\My Documents\workspace\SoftUniCSharpBasics\CSharpBasicsExam26August2014\TicTacToePower\obj\Debug\TicTacToePower.csprojResolveAssemblyReference.cache
+D:\My Documents\workspace\SoftUniCSharpBasics\CSharpBasicsExam26August2014\TicTacToePower\obj\Debug\TicTacToePower.exe
+D:\My Documents\workspace\SoftUniCSharpBasics\CSharpBasicsExam26August2014\TicTacToePower\obj\Debug\TicTacToePower.pdb

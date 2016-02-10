@@ -1,0 +1,2 @@
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Problem 2 – String Matrix Rotation\bin\Debug\Problem 2 – String Matrix Rotation.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\Problem 2 – String Matrix Rotation\bin\Debug\Problem 2 – String Matrix Rotation.exe.config

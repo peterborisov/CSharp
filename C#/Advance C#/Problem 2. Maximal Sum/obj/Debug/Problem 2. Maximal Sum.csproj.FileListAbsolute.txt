@@ -1,0 +1,9 @@
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Problem 2. Maximal Sum\bin\Debug\Problem_2.Maximal_Sum.exe.config
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Problem 2. Maximal Sum\bin\Debug\Problem_2.Maximal_Sum.exe
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Problem 2. Maximal Sum\bin\Debug\Problem_2.Maximal_Sum.pdb
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Problem 2. Maximal Sum\obj\Debug\Problem 2. Maximal Sum.csprojResolveAssemblyReference.cache
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Problem 2. Maximal Sum\obj\Debug\Problem_2.Maximal_Sum.exe
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Problem 2. Maximal Sum\obj\Debug\Problem_2.Maximal_Sum.pdb
+C:\Users\peter\Desktop\подготовка за cSharp advance\Problem 2. Maximal Sum\bin\Debug\Problem_2.Maximal_Sum.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\Problem 2. Maximal Sum\obj\Debug\Problem_2.Maximal_Sum.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Problem 2. Maximal Sum\obj\Debug\Problem_2.Maximal_Sum.pdb

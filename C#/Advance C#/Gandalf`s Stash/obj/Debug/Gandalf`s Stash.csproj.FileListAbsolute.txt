@@ -1,0 +1,6 @@
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Gandalf`s Stash\bin\Debug\Gandalf`s Stash.exe.config
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Gandalf`s Stash\bin\Debug\Gandalf`s Stash.exe
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Gandalf`s Stash\bin\Debug\Gandalf`s Stash.pdb
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Gandalf`s Stash\obj\Debug\Gandalf`s Stash.csprojResolveAssemblyReference.cache
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Gandalf`s Stash\obj\Debug\Gandalf`s Stash.exe
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Gandalf`s Stash\obj\Debug\Gandalf`s Stash.pdb

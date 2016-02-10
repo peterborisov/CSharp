@@ -1,0 +1,7 @@
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Problem 4. Sequence in Matrix\bin\Debug\Problem_4.Sequence_in_Matrix.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\Problem 4. Sequence in Matrix\bin\Debug\Problem_4.Sequence_in_Matrix.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\Problem 4. Sequence in Matrix\bin\Debug\Problem_4.Sequence_in_Matrix.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Problem 4. Sequence in Matrix\bin\Debug\Problem_4.Sequence_in_Matrix.pdb
+C:\Users\peter\Desktop\подготовка за cSharp advance\Problem 4. Sequence in Matrix\obj\Debug\Problem 4. Sequence in Matrix.csprojResolveAssemblyReference.cache
+C:\Users\peter\Desktop\подготовка за cSharp advance\Problem 4. Sequence in Matrix\obj\Debug\Problem_4.Sequence_in_Matrix.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Problem 4. Sequence in Matrix\obj\Debug\Problem_4.Sequence_in_Matrix.pdb

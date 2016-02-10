@@ -1,0 +1,6 @@
+C:\Users\peter\Desktop\подготовка за cSharp advance\Couples Frequency\bin\Debug\Couples Frequency.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\Couples Frequency\bin\Debug\Couples Frequency.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Couples Frequency\bin\Debug\Couples Frequency.pdb
+C:\Users\peter\Desktop\подготовка за cSharp advance\Couples Frequency\obj\Debug\Couples Frequency.csprojResolveAssemblyReference.cache
+C:\Users\peter\Desktop\подготовка за cSharp advance\Couples Frequency\obj\Debug\Couples Frequency.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Couples Frequency\obj\Debug\Couples Frequency.pdb

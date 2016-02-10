@@ -1,0 +1,7 @@
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Problem 3. Matrix shuffling\bin\Debug\Problem_3.Matrix_shuffling.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\Problem 3. Matrix shuffling\bin\Debug\Problem_3.Matrix_shuffling.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\Problem 3. Matrix shuffling\bin\Debug\Problem_3.Matrix_shuffling.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Problem 3. Matrix shuffling\bin\Debug\Problem_3.Matrix_shuffling.pdb
+C:\Users\peter\Desktop\подготовка за cSharp advance\Problem 3. Matrix shuffling\obj\Debug\Problem 3. Matrix shuffling.csprojResolveAssemblyReference.cache
+C:\Users\peter\Desktop\подготовка за cSharp advance\Problem 3. Matrix shuffling\obj\Debug\Problem_3.Matrix_shuffling.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Problem 3. Matrix shuffling\obj\Debug\Problem_3.Matrix_shuffling.pdb

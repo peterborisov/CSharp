@@ -1,0 +1,6 @@
+C:\Users\peter\Desktop\подготовка за cSharp advance\pin custom\bin\Debug\pin custom.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\pin custom\obj\Debug\pin custom.csprojResolveAssemblyReference.cache
+C:\Users\peter\Desktop\подготовка за cSharp advance\pin custom\bin\Debug\pin custom.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\pin custom\bin\Debug\pin custom.pdb
+C:\Users\peter\Desktop\подготовка за cSharp advance\pin custom\obj\Debug\pin custom.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\pin custom\obj\Debug\pin custom.pdb

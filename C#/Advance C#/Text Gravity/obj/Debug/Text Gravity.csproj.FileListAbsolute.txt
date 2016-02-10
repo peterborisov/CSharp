@@ -1,0 +1,6 @@
+C:\Users\peter\Desktop\подготовка за cSharp advance\Text Gravity\bin\Debug\Text Gravity.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\Text Gravity\bin\Debug\Text Gravity.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Text Gravity\bin\Debug\Text Gravity.pdb
+C:\Users\peter\Desktop\подготовка за cSharp advance\Text Gravity\obj\Debug\Text Gravity.csprojResolveAssemblyReference.cache
+C:\Users\peter\Desktop\подготовка за cSharp advance\Text Gravity\obj\Debug\Text Gravity.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Text Gravity\obj\Debug\Text Gravity.pdb

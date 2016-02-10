@@ -1,0 +1,5 @@
+C:\Users\peter\Desktop\подготовка за cSharp advance\1. Fill the Matrix custom\bin\Debug\_1.Fill_the_Matrix_custom.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\1. Fill the Matrix custom\bin\Debug\_1.Fill_the_Matrix_custom.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\1. Fill the Matrix custom\bin\Debug\_1.Fill_the_Matrix_custom.pdb
+C:\Users\peter\Desktop\подготовка за cSharp advance\1. Fill the Matrix custom\obj\Debug\_1.Fill_the_Matrix_custom.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\1. Fill the Matrix custom\obj\Debug\_1.Fill_the_Matrix_custom.pdb

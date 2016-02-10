@@ -1,0 +1,5 @@
+D:\My Documents\workspace\SoftUniCSharpBasics\CSharpBasicsExam26August2014\XBits\bin\Debug\XBits.exe.config
+D:\My Documents\workspace\SoftUniCSharpBasics\CSharpBasicsExam26August2014\XBits\bin\Debug\XBits.exe
+D:\My Documents\workspace\SoftUniCSharpBasics\CSharpBasicsExam26August2014\XBits\bin\Debug\XBits.pdb
+D:\My Documents\workspace\SoftUniCSharpBasics\CSharpBasicsExam26August2014\XBits\obj\Debug\XBits.exe
+D:\My Documents\workspace\SoftUniCSharpBasics\CSharpBasicsExam26August2014\XBits\obj\Debug\XBits.pdb

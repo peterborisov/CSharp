@@ -1,0 +1,9 @@
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Find Min Max Average\bin\Debug\Find Min Max Average.exe.config
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Find Min Max Average\bin\Debug\Find Min Max Average.exe
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Find Min Max Average\bin\Debug\Find Min Max Average.pdb
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Find Min Max Average\obj\Debug\Find Min Max Average.csprojResolveAssemblyReference.cache
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Find Min Max Average\obj\Debug\Find Min Max Average.exe
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Find Min Max Average\obj\Debug\Find Min Max Average.pdb
+C:\Users\peter\Desktop\подготовка за cSharp advance\Find Min Max Average\bin\Debug\Find Min Max Average.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\Find Min Max Average\obj\Debug\Find Min Max Average.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Find Min Max Average\obj\Debug\Find Min Max Average.pdb

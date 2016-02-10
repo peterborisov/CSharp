@@ -1,0 +1,1 @@
+C:\Users\peter\Desktop\подготовка за cSharp advance\Activity Tracker\bin\Debug\Activity Tracker.exe.config

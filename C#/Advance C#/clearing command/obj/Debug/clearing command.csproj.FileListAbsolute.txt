@@ -1,0 +1,6 @@
+C:\Users\peter\Desktop\подготовка за cSharp advance\clearing command\bin\Debug\clearing command.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\clearing command\bin\Debug\clearing command.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\clearing command\bin\Debug\clearing command.pdb
+C:\Users\peter\Desktop\подготовка за cSharp advance\clearing command\obj\Debug\clearing command.csprojResolveAssemblyReference.cache
+C:\Users\peter\Desktop\подготовка за cSharp advance\clearing command\obj\Debug\clearing command.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\clearing command\obj\Debug\clearing command.pdb

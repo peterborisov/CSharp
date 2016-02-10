@@ -1,0 +1,5 @@
+C:\Users\peter\Desktop\Стрингове и текстообработка\ReadingPrintingStrings\bin\Debug\ReadingPrintingStrings.exe
+C:\Users\peter\Desktop\Стрингове и текстообработка\ReadingPrintingStrings\bin\Debug\ReadingPrintingStrings.pdb
+C:\Users\peter\Desktop\Стрингове и текстообработка\ReadingPrintingStrings\obj\Debug\02. Reading and Printing Strings.csprojResolveAssemblyReference.cache
+C:\Users\peter\Desktop\Стрингове и текстообработка\ReadingPrintingStrings\obj\Debug\ReadingPrintingStrings.exe
+C:\Users\peter\Desktop\Стрингове и текстообработка\ReadingPrintingStrings\obj\Debug\ReadingPrintingStrings.pdb

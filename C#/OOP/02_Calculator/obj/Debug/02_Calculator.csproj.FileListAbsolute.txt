@@ -1,0 +1,6 @@
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\02 OOP\07 Delegates\Homework\Delegates\02_Calculator\bin\Debug\02_Calculator.exe.config
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\02 OOP\07 Delegates\Homework\Delegates\02_Calculator\bin\Debug\02_Calculator.exe
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\02 OOP\07 Delegates\Homework\Delegates\02_Calculator\bin\Debug\02_Calculator.pdb
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\02 OOP\07 Delegates\Homework\Delegates\02_Calculator\obj\Debug\02_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\02 OOP\07 Delegates\Homework\Delegates\02_Calculator\obj\Debug\02_Calculator.exe
+C:\Users\Anton\Desktop\SoftUni\1 Fundamental Level\02 OOP\07 Delegates\Homework\Delegates\02_Calculator\obj\Debug\02_Calculator.pdb

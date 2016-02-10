@@ -1,0 +1,9 @@
+C:\Users\peter\Desktop\подготовка за cSharp advance\Plus-Remove\bin\Debug\Plus-Remove.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\Plus-Remove\bin\Debug\Plus-Remove.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Plus-Remove\bin\Debug\Plus-Remove.pdb
+C:\Users\peter\Desktop\подготовка за cSharp advance\Plus-Remove\obj\Debug\Plus-Remove.csprojResolveAssemblyReference.cache
+C:\Users\peter\Desktop\подготовка за cSharp advance\Plus-Remove\obj\Debug\Plus-Remove.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Plus-Remove\obj\Debug\Plus-Remove.pdb
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Plus-Remove\bin\Debug\Plus-Remove.exe.config
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Plus-Remove\obj\Debug\Plus-Remove.exe
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Plus-Remove\obj\Debug\Plus-Remove.pdb

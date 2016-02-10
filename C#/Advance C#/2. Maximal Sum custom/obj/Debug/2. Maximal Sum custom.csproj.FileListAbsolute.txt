@@ -1,0 +1,6 @@
+C:\Users\peter\Desktop\подготовка за cSharp advance\2. Maximal Sum custom\bin\Debug\_2.Maximal_Sum_custom.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\2. Maximal Sum custom\bin\Debug\_2.Maximal_Sum_custom.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\2. Maximal Sum custom\bin\Debug\_2.Maximal_Sum_custom.pdb
+C:\Users\peter\Desktop\подготовка за cSharp advance\2. Maximal Sum custom\obj\Debug\2. Maximal Sum custom.csprojResolveAssemblyReference.cache
+C:\Users\peter\Desktop\подготовка за cSharp advance\2. Maximal Sum custom\obj\Debug\_2.Maximal_Sum_custom.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\2. Maximal Sum custom\obj\Debug\_2.Maximal_Sum_custom.pdb

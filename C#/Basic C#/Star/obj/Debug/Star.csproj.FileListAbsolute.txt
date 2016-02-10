@@ -1,0 +1,6 @@
+D:\My Documents\workspace\SoftUniCSharpBasics\CSharpBasicsExam26August2014\Star\bin\Debug\Star.exe.config
+D:\My Documents\workspace\SoftUniCSharpBasics\CSharpBasicsExam26August2014\Star\bin\Debug\Star.exe
+D:\My Documents\workspace\SoftUniCSharpBasics\CSharpBasicsExam26August2014\Star\bin\Debug\Star.pdb
+D:\My Documents\workspace\SoftUniCSharpBasics\CSharpBasicsExam26August2014\Star\obj\Debug\Star.csprojResolveAssemblyReference.cache
+D:\My Documents\workspace\SoftUniCSharpBasics\CSharpBasicsExam26August2014\Star\obj\Debug\Star.exe
+D:\My Documents\workspace\SoftUniCSharpBasics\CSharpBasicsExam26August2014\Star\obj\Debug\Star.pdb

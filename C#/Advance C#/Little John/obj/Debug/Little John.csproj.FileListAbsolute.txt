@@ -1,0 +1,6 @@
+C:\Users\peter\Desktop\подготовка за cSharp advance\Little John\bin\Debug\Little John.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\Little John\bin\Debug\Little John.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Little John\bin\Debug\Little John.pdb
+C:\Users\peter\Desktop\подготовка за cSharp advance\Little John\obj\Debug\Little John.csprojResolveAssemblyReference.cache
+C:\Users\peter\Desktop\подготовка за cSharp advance\Little John\obj\Debug\Little John.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Little John\obj\Debug\Little John.pdb

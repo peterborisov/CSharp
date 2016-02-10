@@ -1,0 +1,5 @@
+C:\Users\peter\Desktop\delegates\Music Shop Management\obj\Debug\Music Shop Management.csprojResolveAssemblyReference.cache
+C:\Users\peter\Desktop\delegates\Music Shop Management\bin\Debug\Music Shop Management.exe
+C:\Users\peter\Desktop\delegates\Music Shop Management\bin\Debug\Music Shop Management.pdb
+C:\Users\peter\Desktop\delegates\Music Shop Management\obj\Debug\Music Shop Management.exe
+C:\Users\peter\Desktop\delegates\Music Shop Management\obj\Debug\Music Shop Management.pdb

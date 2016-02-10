@@ -1,0 +1,6 @@
+C:\Users\peter\Desktop\подготовка за cSharp advance\Magic Words\bin\Debug\Magic Words.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\Magic Words\bin\Debug\Magic Words.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Magic Words\bin\Debug\Magic Words.pdb
+C:\Users\peter\Desktop\подготовка за cSharp advance\Magic Words\obj\Debug\Magic Words.csprojResolveAssemblyReference.cache
+C:\Users\peter\Desktop\подготовка за cSharp advance\Magic Words\obj\Debug\Magic Words.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Magic Words\obj\Debug\Magic Words.pdb

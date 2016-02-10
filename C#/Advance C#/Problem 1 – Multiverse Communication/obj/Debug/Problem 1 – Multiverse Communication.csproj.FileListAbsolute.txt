@@ -1,0 +1,2 @@
+C:\peter\SOFTUNI\level 1\Advanced C#\УПРАЖНЕНИЯ\подготовка за cSharp advance\Problem 1 – Multiverse Communication\bin\Debug\Problem 1 – Multiverse Communication.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\Problem 1 – Multiverse Communication\bin\Debug\Problem 1 – Multiverse Communication.exe.config

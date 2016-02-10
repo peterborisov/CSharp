@@ -1,0 +1,6 @@
+C:\Users\peter\Desktop\подготовка за cSharp advance\Biggest Table Row\bin\Debug\Biggest Table Row.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\Biggest Table Row\bin\Debug\Biggest Table Row.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Biggest Table Row\bin\Debug\Biggest Table Row.pdb
+C:\Users\peter\Desktop\подготовка за cSharp advance\Biggest Table Row\obj\Debug\Biggest Table Row.csprojResolveAssemblyReference.cache
+C:\Users\peter\Desktop\подготовка за cSharp advance\Biggest Table Row\obj\Debug\Biggest Table Row.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Biggest Table Row\obj\Debug\Biggest Table Row.pdb

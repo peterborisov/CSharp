@@ -1,0 +1,6 @@
+C:\Users\peter\Desktop\подготовка за cSharp advance\subset sums custom\bin\Debug\subset sums custom.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\subset sums custom\bin\Debug\subset sums custom.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\subset sums custom\bin\Debug\subset sums custom.pdb
+C:\Users\peter\Desktop\подготовка за cSharp advance\subset sums custom\obj\Debug\subset sums custom.csprojResolveAssemblyReference.cache
+C:\Users\peter\Desktop\подготовка за cSharp advance\subset sums custom\obj\Debug\subset sums custom.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\subset sums custom\obj\Debug\subset sums custom.pdb

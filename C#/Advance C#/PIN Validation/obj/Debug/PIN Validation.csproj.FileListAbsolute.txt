@@ -1,0 +1,6 @@
+C:\Users\peter\Desktop\подготовка за cSharp advance\PIN Validation\bin\Debug\PIN Validation.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\PIN Validation\bin\Debug\PIN Validation.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\PIN Validation\bin\Debug\PIN Validation.pdb
+C:\Users\peter\Desktop\подготовка за cSharp advance\PIN Validation\obj\Debug\PIN Validation.csprojResolveAssemblyReference.cache
+C:\Users\peter\Desktop\подготовка за cSharp advance\PIN Validation\obj\Debug\PIN Validation.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\PIN Validation\obj\Debug\PIN Validation.pdb

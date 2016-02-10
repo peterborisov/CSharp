@@ -1,0 +1,6 @@
+C:\Users\peter\Desktop\подготовка за cSharp advance\Multiverse Communication\bin\Debug\Multiverse Communication.exe.config
+C:\Users\peter\Desktop\подготовка за cSharp advance\Multiverse Communication\bin\Debug\Multiverse Communication.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Multiverse Communication\bin\Debug\Multiverse Communication.pdb
+C:\Users\peter\Desktop\подготовка за cSharp advance\Multiverse Communication\obj\Debug\Multiverse Communication.csprojResolveAssemblyReference.cache
+C:\Users\peter\Desktop\подготовка за cSharp advance\Multiverse Communication\obj\Debug\Multiverse Communication.exe
+C:\Users\peter\Desktop\подготовка за cSharp advance\Multiverse Communication\obj\Debug\Multiverse Communication.pdb
